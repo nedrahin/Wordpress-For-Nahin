@@ -1,0 +1,27 @@
+
+tools -> commant palete =  set {html, php, etc}
+<b54 = html5 full template
+
+ctrl + P = file eccess {lorem ipsum . etc}
+
+{ ctrl + shift + F = [r, r, r,] akn 3 ta [r] e replece korbo tar jonno 1st [r] [last->3] insert k }
+
+ctrl + shift + m = Emx { <div></div>} = braket er modhe ja ace ta sob select korbe.
+
+ctrl + a -> f9 = for css all property ASC korbe
+
+parvezPreo12345
+
+git
+----
+
+…or create a new repository on the command line
+echo "# Wordpress-For-Nahin" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nedrahin/Wordpress-For-Nahin.git
+git push -u origin master
+…or push an existing repository from the command line
+git remote add origin https://github.com/nedrahin/Wordpress-For-Nahin.git
+git push -u origin master
